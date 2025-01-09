@@ -24,3 +24,18 @@ A simple calculator application with voice assistant functionality built using J
    ```bash
    git clone https://github.com/Me-lab-c/calculator-voice-assistant.git
    cd calculator-voice-assistant
+
+ Open index.html in your browser to run the application.
+
+
+
+Usage
+
+1. Click on the microphone icon to start voice input.
+
+
+2. Say your calculation (e.g., "What is five plus three?").
+
+
+3. The result will be displayed, and the voice assistant will speak the result.
+4.
