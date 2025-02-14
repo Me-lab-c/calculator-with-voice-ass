@@ -38,4 +38,4 @@ Usage
 
 
 3. The result will be displayed, and the voice assistant will speak the result.
-4.
+
